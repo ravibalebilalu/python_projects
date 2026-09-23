@@ -1,0 +1,33 @@
+Project 1: Library Management System
+    Develop a command-line Library Management System using classes to
+represent a basic system with books and authors. Users should be able to
+perform operations like adding books, removing books, searching for books,
+and displaying information about books and authors. Implement exception
+handling to manage potential errors for a smoother user experience.
+Requirements:
+1. Book Class:
+• Implement a Book class to represent individual books.
+• Attributes: Title, Author, ISBN (International Standard Book Number),
+and Quantity.
+
+• Method: Display book details.
+
+******************************
+2. Author Class:
+• Create an Author class to represent authors.
+• Attributes: Author name and a list of books written by the author.
+• Method: Display author details.
+**************************************************
+3. Library Class:
+• Develop a Library class to manage the overall library system.
+• Methods:
+o Add a new book to the library.
+o Remove a book from the library.
+o Search for a book by title or author.
+o Display information about all books in the library.
+o Display information about all authors in the library.
+4. Exception Handling:
+• Implement exception handling to manage potential errors, such as
+book not found or invalid input.
+• Ensure graceful handling of exceptions with informative error
+messages for users.
