@@ -1,0 +1,51 @@
+Project 2: Employee Record System
+Create a command-line Employee Record System in Python utilizing classes
+to represent individual employees. The system allows users to perform
+operations like adding employees, updating details, deleting records,
+searching for employees, and displaying employee information. Robust
+exception handling is implemented to manage potential errors for a
+smoother user experience.
+Requirements:
+1. Employee Class:
+• Implement an Employee class representing individual employees.
+• Attributes: Employee ID, Name, Position, Department, Salary, Joining Date.
+• Method: Display employee details.
+
+
+2. Exception Handling:
+• Implement exception handling for potential errors, such as an
+employee not found or invalid input.
+• Ensure graceful handling of exceptions with informative error messages.
+
+
+3. Employee Record System Class:
+• Develop an Employee Record System class to manage the overall system.
+• Methods:
+o Add a new employee.
+o Update employee details. 
+o Remove an employee.
+o Search for an employee by ID or name.
+o Display information about all employees.
+
+
+4. User Interface:
+• Create a simple command-line interface.
+• Display a menu with options for adding, updating, deleting, searching,
+and displaying employee information.
+
+
+5. Input Validation:
+• Validate user inputs for accurate and appropriate data entry.
+• Implement checks for unique employee IDs and handle errors gracefully.3 | P a g e
+
+
+6. Data Persistence:
+• Save employee records to a file for persistence between program runs.
+• Automatically load employee data at program start.
+
+
+7. Error Handling:
+• Ensure robust error handling for scenarios like file not found, invalid
+input, or unsuccessful file operations.
+• Display informative error messages to guide users in resolving issues.
+ 
