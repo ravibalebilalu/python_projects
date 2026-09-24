@@ -1,0 +1,59 @@
+Project 3: Bank Account Management System
+
+    Develop a command-line Bank Account Management System in Python using
+classes to represent individual accounts. The system allows users to perform
+operations such as creating accounts, depositing and withdrawing funds,
+checking balances, and displaying account information. Exception handling is
+implemented to manage potential errors for a smoother user experience.
+
+Requirements:
+1. Account Class:
+• Implement an Account class to represent individual bank accounts.
+• ttributes: Account Number, Account Holder Name, Account Type (e.g.,
+Savings, Checking), Balance.
+• Method: Display account details.
+
+
+
+2. Exception Handling:
+• Implement exception handling for potential errors, such as insufficient
+funds or invalid input.
+• Ensure graceful handling of exceptions with informative error messages.
+
+
+3. Bank System Class:
+• Develop a Bank System class to manage the overall system.
+• Methods:
+o Create a new account.
+o Deposit funds into an account.
+o Withdraw funds from an account.
+o Check the balance of an account.
+o Display information about all accounts. 
+
+
+4. User Interface:
+• Create a simple command-line interface.
+• Display a menu with options for creating accounts, depositing,
+withdrawing, checking balances, and displaying account information.
+
+
+5. Input Validation:
+• Validate user inputs for accurate and appropriate data entry.
+• Implement checks to ensure valid account numbers and handle errors
+gracefully.
+
+
+6. Data Persistence:
+• Save account information to a file for persistence between program runs.
+• Automatically load account data at program start.
+
+
+7. Error Handling:
+• Ensure robust error handling for scenarios like file not found, insufficient
+funds, or invalid input.
+• Display informative error messages to guide users in resolving issues.
+
+
+8. Documentation:
+• Provide clear documentation, including a user guide.
+• Include comments in the code for enhanced readability.
